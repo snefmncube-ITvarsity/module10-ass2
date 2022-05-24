@@ -30,7 +30,7 @@ body{
 /*=========== HEADER ==========*/
 
 .header{
-    background-color: #2196f3;
+    background-color: plum;
     
     width: 100%;
     height: 50px;
@@ -45,7 +45,7 @@ body{
 .header i {
     float: left;
     padding: 17px 0px 0px 17px;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .header img {
